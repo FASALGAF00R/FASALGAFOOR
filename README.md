@@ -1,6 +1,8 @@
 <h1 align="center">Hi 😎, I'm Mohamed fasal gafoor</h1>
 <h3 align="center">I am a self taught web developer</h3>
-
+<video width="640" height="360" controls>
+  <source src="https://www.shutterstock.com/video/clip-1057790755-source-codes-cyberspace-on-black-background-animation" type="video/mp4">
+</video>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=fasalgafoor&label=Profile%20views&color=0e75b6&style=flat" alt="fasalgafoor" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=fasalgafoor" alt="fasalgafoor" /></a> </p>
