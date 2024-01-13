@@ -1,5 +1,5 @@
 <h1 align="center">Hi 😎, I'm Mohamed fasal gafoor</h1>
-<h3 align="center">I am a self taught web developer</h3>
+<h3 align="center">I am a self taught mern stack developer</h3>
 <video width="640" height="360" controls>
   <source src="https://www.shutterstock.com/video/clip-1057790755-source-codes-cyberspace-on-black-background-animation" type="video/mp4">
 </video>
@@ -15,7 +15,7 @@
 
 - 👨‍💻 All of my projects are available at [fasalgaf00r.github.io/bio](fasalgaf00r.github.io/bio)
 
-- 💬 Ask me about **javascript,mongodb,nodejs,expressjs**
+- 💬 Ask me about **javascript,mongodb,nodejs,expressjs,git**
 
 - 📫 How to reach me **fasalgafoor2080@gmail.com**
 
