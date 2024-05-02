@@ -9,9 +9,9 @@
 
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
 
-- 🔭 I’m currently' working on **fstore it's an ecommerce application**
+- 🔭 I’m currently' working on **Travelgo it's an travel application**
 
-- 🌱 I’m currently learning **react**
+- 🌱 I’m currently learning **redux**
 
 - 👨‍💻 All of my projects are available at [fasalgaf00r.github.io/bio](fasalgaf00r.github.io/bio)
 
