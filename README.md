@@ -9,13 +9,13 @@
 
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
 
-- 🔭 I’m currently' working on **Travelgo it's an travel application**
+- 🔭 I’m currently' working on **Campus core it a college related project**
 
-- 🌱 I’m currently learning **redux**
+- 🌱 I’m currently learning **typescript**
 
 - 👨‍💻 All of my projects are available at [fasalgaf00r.github.io/bio](fasalgaf00r.github.io/bio)
 
-- 💬 Ask me about **javascript,mongodb,nodejs,expressjs,git**
+- 💬 Ask me about **javascript,mongodb,nodejs,expressjs,git,etc..**
 
 - 📫 How to reach me **fasalgafoor2080@gmail.com**
 
